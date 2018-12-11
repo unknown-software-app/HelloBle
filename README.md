@@ -8,7 +8,8 @@ react-native link react-native-ble-plx
 
 this section of android https://github.com/Polidea/react-native-ble-plx#android-example-setup
 insall android SDK.
-set ANDROID_HOME
+set ANDROID_HOME environment variable.
+adding the path to adb command to PATH variable
 
 in Android device:
 make the phone as developer. (tap 7 times on build number in 'settings' => 'about' or something like that).
