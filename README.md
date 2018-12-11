@@ -1,4 +1,11 @@
 What done:
+
+create app via: react-native init
+npm install --save react-native-ble-plx
+npm install
+react-native link react-native-ble-plx
+
+
 this section of android https://github.com/Polidea/react-native-ble-plx#android-example-setup
 insall android SDK.
 set ANDROID_HOME
